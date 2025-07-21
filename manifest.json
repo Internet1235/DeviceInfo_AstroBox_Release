@@ -4,7 +4,8 @@
     "description": "一个查看设备详细信息的小程序，支持查看总存储空间和剩余的存储空间",
     "preview": [
       "preview1.png",
-      "preview2.png"
+      "preview2.png",
+      "preview3.png"
     ],
     "icon": "icon.svg",
     "source_url": "",
@@ -25,6 +26,10 @@
     "o66nfc": {
       "version": "25.7.22",
       "file_name": "com.band.deviceinfo.release.25.7.22.rpk"
+    },
+    "n67": {
+      "version": "25.7.22",
+      "file_name": "n67_com.band.deviceinfo.release.25.7.22.rpk"
     }
   }
 }
