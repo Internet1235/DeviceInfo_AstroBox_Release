@@ -6,7 +6,8 @@
       "preview1.png",
       "preview2.png",
       "preview3.png",
-      "preview4.png"
+      "preview4.png",
+      "preview5.png"
     ],
     "icon": "icon.svg",
     "source_url": "",
@@ -47,6 +48,14 @@
     "o63": {
       "version": "25.7.22",
       "file_name": "xiaomi-watch_com.watch.deviceinfo.release.25.7.22.rpk"
+    },
+    "o65": {
+      "version": "25.7.22",
+      "file_name": "redmi-watch_com.watch.deviceinfo.release.25.7.22.rpk"
+    },
+    "o65m": {
+      "version": "25.7.22",
+      "file_name": "redmi-watch_com.watch.deviceinfo.release.25.7.22.rpk"
     }
   }
 }
