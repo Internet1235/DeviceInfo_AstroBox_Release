@@ -53,6 +53,10 @@
     "o65m": {
       "version": "25.12.12",
       "file_name": "redmi-watch_com.watch.deviceinfo.release.25.12.12.rpk"
+    },
+    "p65": {
+      "version": "25.12.12",
+      "file_name": "redmi-watch_com.watch.deviceinfo.release.25.12.12.rpk" 
     }
   }
 }
