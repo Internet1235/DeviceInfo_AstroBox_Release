@@ -19,44 +19,44 @@
   },
   "downloads": {
     "n66": {
-      "version": "25.12.12",
-      "file_name": "n66_com.band.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "n66_com.deviceinfo.release.26.02.14.rpk"
     },
     "o66": {
-      "version": "25.12.12",
-      "file_name": "com.band.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "com.deviceinfo.release.26.02.14.rpk"
     },
     "o66nfc": {
-      "version": "25.12.12",
-      "file_name": "com.band.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "com.deviceinfo.release.26.02.14.rpk"
     },
     "n67": {
-      "version": "25.12.12",
-      "file_name": "n67_com.band.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "n67_com.deviceinfo.release.26.02.14.rpk"
     },
     "n62": {
-      "version": "25.12.12",
-      "file_name": "xiaomi-watch_com.watch.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "o62": {
-      "version": "25.12.12",
-      "file_name": "xiaomi-watch_com.watch.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "o62m": {
-      "version": "25.12.12",
-      "file_name": "xiaomi-watch_com.watch.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "o65": {
-      "version": "25.12.12",
-      "file_name": "redmi-watch_com.watch.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "o65m": {
-      "version": "25.12.12",
-      "file_name": "redmi-watch_com.watch.deviceinfo.release.25.12.12.rpk"
+      "version": "26.02.14",
+      "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "p65": {
-      "version": "25.12.12",
-      "file_name": "redmi-watch_com.watch.deviceinfo.release.25.12.12.rpk" 
+      "version": "26.02.14",
+      "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk" 
     }
   }
 }
