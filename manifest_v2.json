@@ -5,12 +5,12 @@
     "name": "设备详细信息",
     "description": "一个查看设备详细信息的小程序，支持查看总存储空间和剩余的存储空间",
     "preview": [
-        "cover.svg",
-        "preview1.png",
-        "preview2.png",
-        "preview3.png",
-        "preview4.png",
-        "preview5.png"
+      "cover.svg",
+      "preview1.png",
+      "preview2.png",
+      "preview3.png",
+      "preview4.png",
+      "preview5.png"
     ],
     "icon": "icon.svg",
     "cover": "cover.svg",
@@ -40,28 +40,28 @@
       "file_name": "n67_com.deviceinfo.release.26.02.14.rpk"
     },
     "xmws3": {
-        "version": "26.02.14",
-        "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
+      "version": "26.02.14",
+      "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "xmws4": {
-        "version": "26.02.14",
-        "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
+      "version": "26.02.14",
+      "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "xmws4xring": {
-        "version": "26.02.14",
-        "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
+      "version": "26.02.14",
+      "file_name": "xiaomi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "xmrw5": {
-        "version": "26.02.14",
-        "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
+      "version": "26.02.14",
+      "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "xmrw5xring": {
-        "version": "26.02.14",
-        "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
+      "version": "26.02.14",
+      "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
     },
     "xmrw6": {
-        "version": "26.02.14",
-        "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
+      "version": "26.02.14",
+      "file_name": "redmi-watch_com.deviceinfo.release.26.02.14.rpk"
     }
   },
   "ext": {}
